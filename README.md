@@ -1,2 +1,6 @@
 # Python Programming
-Python programs
+This repository will contain code that I will write while learning python.
+Topics covered:
+-Python Fundamentals
+-Loops
+
